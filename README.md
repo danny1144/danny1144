@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there，I'm danny👋
+
+一线JAVA开发，python和 vue均有涉猎，关注大前端
+
+ ### 
 
 <!--
 **danny1144/danny1144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

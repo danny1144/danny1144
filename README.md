@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danny1144&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny1144&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
  

@@ -1,6 +1,6 @@
 ### Hi there，I'm danny👋
 
-一线JAVA开发，python和 vue均有涉猎，关注大前端
+一线JAVA开发
 
  ### 
 

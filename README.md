@@ -1,6 +1,7 @@
 ### Hi there，I'm danny👋
 
 一线JAVA开发
+![]( https://visitor-badge.glitch.me/badge?page_id=danny1144.readme)
 
  ### 
 
